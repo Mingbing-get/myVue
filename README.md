@@ -12,5 +12,5 @@
     method:{}, //定义自己的函数
     html:`` //使用字符串，定义HTML结构
   })
-  具体使方式见index.html
+  具体使方式见index.html  
 
